@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 style="color:#1a237e; background:#e3f2fd; padding:0.5em 0; border-radius:8px;">10 Academy MCP Setup Challenge – Task 3: Documentation Report</h1>
-  <p><b style="color:#b71c1c;">Author:</b> <span style="color:#1565c0;">Birkity Yishak</span> &nbsp;|&nbsp; <b style="color:#b71c1c;">Date:</b> <span style="color:#1565c0;">February 02, 2026</span></p>
+
   <p><b style="color:#b71c1c;">Challenge Goal:</b> <span style="color:#1565c0;">Configure VS Code with Tenx MCP server, improve agent rules file based on best practices, and document the process.</span></p>
 </div>
 

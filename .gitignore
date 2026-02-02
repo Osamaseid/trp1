@@ -1,0 +1,46 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules (if applicable)
+node_modules/
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Keep MCP configuration (needed for assessment)
+!.cursor/mcp.json
+!.cursor/rules/
